@@ -1,23 +1,11 @@
-footer{
-    text-transform:uppercase;
-    position: relative;
-    left: 500px;
-    top: 50px;
-
-}
-li{
-    padding:5px;
-    width: 150px;
-    border: 1px solid #531818;
-    border-radius: 10px;
-    display: inline-block;
+a{
+    text-decoration: none;
+    width: 350px;
+    border: 3px solid red;
+    display:inline-block;
 }
 ul{
-    background-color: #531818;
-    color:whitesmoke;
+    text-transform: uppercase;
 }
-.CONNEXION{
-    position:relative;
-    left:1090px;
-    bottom:50px
-}
+
+
